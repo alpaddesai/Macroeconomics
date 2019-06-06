@@ -7,4 +7,3 @@ C:\Users\ADG\source\repos\EDUCSYE6200\BackofPaperNapkinMacroeconomics\BackofPape
 C:\Users\ADG\source\repos\EDUCSYE6200\BackofPaperNapkinMacroeconomics\BackofPaperNapkinMacroeconomics\obj\Debug\BackofPaperNapkinMacroeconomics.csproj.CoreCompileInputs.cache
 C:\Users\ADG\source\repos\EDUCSYE6200\BackofPaperNapkinMacroeconomics\BackofPaperNapkinMacroeconomics\obj\Debug\BackofPaperNapkinMacroeconomics.exe
 C:\Users\ADG\source\repos\EDUCSYE6200\BackofPaperNapkinMacroeconomics\BackofPaperNapkinMacroeconomics\obj\Debug\BackofPaperNapkinMacroeconomics.pdb
-C:\Users\ADG\source\repos\EDUCSYE6200\BackofPaperNapkinMacroeconomics\BackofPaperNapkinMacroeconomics\obj\Debug\BackofPaperNapkinMacroeconomics.csprojAssemblyReference.cache

@@ -117,13 +117,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="treeNode122.ToolTipText" xml:space="preserve">
+  <data name="treeNode282.ToolTipText" xml:space="preserve">
     <value>Movements up/down the demand curve means simultaneous change in prices of all final goods and services , not just a single good or service (that would be micro-economics), law of demand – keeping all other goods constant and focusing on a single final good/service</value>
   </data>
-  <data name="treeNode129.ToolTipText" xml:space="preserve">
+  <data name="treeNode289.ToolTipText" xml:space="preserve">
     <value>e.g if a large number of houses have been built in recent years, the demand to build more would go down i.e investment spending towards construction will go down, so will the demand for new houses.  When existing stock is small, agg demand increases, when large agg demand decreases. </value>
   </data>
-  <data name="treeNode155.ToolTipText" xml:space="preserve">
+  <data name="treeNode315.ToolTipText" xml:space="preserve">
     <value>In the long run, in the face of high unemployment cause by lower output, nominal wages will fall causing a positive supply shock, causing the output to reach potential output but keeping the lower price the same.</value>
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
@@ -786,5 +786,14 @@
         gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiii
         gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP//Z
 </value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>When a currency depreciates, exports fall and imports rise.
+Demand curve is justified. If the currency depreciates, 
+exports are inexpensive. To fix an exchange rate, raise the 
+IR this will cause capital to flow into the country increasing 
+the demand for the currency and reducing the supply of the
+currency since capital outflows will be reduced. An increase
+in interest rate causes the currency to appreciate</value>
   </data>
 </root>
