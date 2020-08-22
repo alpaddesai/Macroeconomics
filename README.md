@@ -6,4 +6,6 @@ download the executable: https://github.com/alpaddesai/Macroeconomics/releases. 
 
 ![image](MacroeconomicsImage.png)
 
-Applied knowledge: https://github.com/alpaddesai/SemiconductorIndustryAnalysis
+Applied knowledge: https://github.com/alpaddesai/SemiconductorIndustryAnalysis  
+
+Reference material : https://www.indexmundi.com/g/r.aspx?t=20&v=65
