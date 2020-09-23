@@ -13,3 +13,7 @@ Reference material : https://www.indexmundi.com/g/r.aspx?t=20&v=65
 Purchase parity parity = 21 = cost of good in India (rupees) / cost of goods in US ($). A $10 shirt costs rupees 210, if the exchange rate is applied it's $2.83
 
 GDP = Consumer spending + government spending + investment + exports - imports
+
+
+## Oracle
+![image](Oracle.jpg)
