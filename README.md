@@ -20,4 +20,6 @@ GDP = Consumer spending + government spending + investment + exports - imports
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
+![image](USCopyrightCertificate.png)
+
 https://github.com/alpaddesai/MBA_BusinessDevelopmentMergersAcquisitionsIdea
