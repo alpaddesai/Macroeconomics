@@ -15,7 +15,7 @@ Purchase parity parity = 21 = cost of good in India (rupees) / cost of goods in 
 GDP = Consumer spending + government spending + investment + exports - imports
 
 ## Exam
-![image](CFAExam.png)
+![image](CFAExam.jpg)
 
 ## MBA admission letter
 ![image](MBA.png)
