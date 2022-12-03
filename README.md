@@ -22,4 +22,4 @@ GDP = Consumer spending + government spending + investment + exports - imports
 
 ![image](USCopyrightCertificate.png)
 
-https://github.com/alpaddesai/MBA_BusinessDevelopmentMergersAcquisitionsIdea
+Additional details reference https://github.com/alpaddesai/FundamentalsInternationalbusiness
